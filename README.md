@@ -29,7 +29,5 @@ This project is built using **HTML, CSS, and JavaScript**.
 - Implement keyboard support for input.  
 - Add advanced functions like square root and percentage.  
 
-## Author
-👤 **Your Name**  
-📧 Contact: your-email@example.com  
+
 
